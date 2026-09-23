@@ -1,5 +1,8 @@
 # Web3Insight
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
+
 Web3 developer analytics platform — Turborepo + pnpm monorepo.
 
 ## Apps
