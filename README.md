@@ -40,6 +40,19 @@ pnpm syncpack:lint     # workspace dependency hygiene
 pnpm syncpack:fix
 ```
 
+
+## Free Web3 diagnostics
+
+For public infrastructure troubleshooting, these live NAIF tools are available without signup:
+
+- **RPC Doctor** — bounded EVM JSON-RPC reachability and latency check.
+- **API Health Check** — public endpoint status and latency.
+- **Webhook Payload Tester** — safe JSON structure validation.
+
+Live tools: https://naif-store-62-83-19-162.sslip.io/tools?utm_source=github_web3insight
+
+Public share cards are opt-in and sanitized: raw URLs, payloads, credentials, tokens, and secrets are excluded.
+
 ## Architecture
 
 See [CLAUDE.md](./CLAUDE.md) for the full architecture, oRPC contract, deployment, and skills documentation.
